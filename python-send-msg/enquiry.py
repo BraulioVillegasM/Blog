@@ -33,7 +33,7 @@ your_name = data['your_name']
 your_email = data['your_email']
 your_password = data['your_password']
 
-server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+server = smtplib.SMTP_SSL('bvillegas@inaoep.mx', 465)
 server.ehlo()
 server.login(your_email, your_password)
 
