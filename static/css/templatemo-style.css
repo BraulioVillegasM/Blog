@@ -148,7 +148,7 @@ nav {
 /* Menu */
 
 .overlay-menu {
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(100,200,200,2);
   color: #ffffff;
   position: fixed;
   z-index: 100;
